@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46138" started-at="2020-03-17T15:20:19 IST" finished-at="2020-03-17T15:21:05 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46138" started-at="2020-03-17T15:20:19 IST" finished-at="2020-03-17T15:21:05 IST">
+      <class name="com.tests.loginTestRunner">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.tests.loginTestRunner@6b0c2d26]" name="setUP" is-config="true" duration-ms="13697" started-at="2020-03-17T15:20:19 IST" finished-at="2020-03-17T15:20:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="login(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.tests.loginTestRunner@6b0c2d26]" name="login" duration-ms="30217" started-at="2020-03-17T15:20:33 IST" description="login" data-provider="features" finished-at="2020-03-17T15:21:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Account]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.loginTestRunner@6b0c2d26]" name="tearDown" is-config="true" duration-ms="2020" started-at="2020-03-17T15:21:03 IST" finished-at="2020-03-17T15:21:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.loginTestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
