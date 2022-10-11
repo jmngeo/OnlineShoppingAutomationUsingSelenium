@@ -1,4 +1,4 @@
-# DecathlonSeleniumProject
+# Automation using Selenium on an online shopping wesbite (https://decathlon.in)
 
 Group Members:
 
